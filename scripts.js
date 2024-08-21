@@ -15,6 +15,8 @@ function saoIguais (endereco1, endereco2) {
 }
 console.log (saoIguais(endereco1,endereco2));
 
+// comparando endereço
+
 function temEnderecoMemoriaGuardada(endereco1, endereco2){
     return endereco1 === endereco3;
 }
